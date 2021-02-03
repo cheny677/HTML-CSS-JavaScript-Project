@@ -1,0 +1,27 @@
+Web app (17.5):
+Simple calculator that allows user to add/remove 4 items.
+Implemented coupon.
+Possible improvements: Allows for adding in new items
+                       Calculate tax as well.
+
+Web report (25.5): 
+Did some comparisons between web technologies, better to divide into front-end/back-end technologies comparisons.
+Talked about database briefly.
+Adding some more in-depth analysis for factors such as performance, scalability, maturity of the language would be great.
+
+Web CI/CD (bonus) : 0
+
+
+Mobile app (17):
+Similar design as the web app. 
+It only works on iOS 14 and above.
+Layout of the app can be improved a bit (cannot dismiss keyboard when entered coupon, coupon is not applied, item shifts after expanding the drop down menu, tax not expressed in percentage).
+
+
+Mobile report (24):
+Had some comparisons between iOS/Android/Flutter (comparison is mainly based on familiarity and community support).
+Adding some more in-depth analysis for factors such as performance, scalability, maturity of the language would be great.
+
+Mobile CI/CD : 0
+
+Total : 84
